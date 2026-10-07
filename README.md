@@ -25,7 +25,7 @@ This repository is the community's public home for information, resources, and b
 ## Repository contents
 
 - [`resources/`](resources/README.md) - a curated starting point for research tools, paper sources, deadlines, and community links
-- [`branding/`](branding/README.md) - the official logo and the meaning behind the mark
+- [`branding/`](branding/README.md) - the current logo, its meaning, and a [visual identity working guide](branding/visual-identity.md)
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - how to suggest resources or improvements
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) - the standard expected across AIRMN spaces
 
