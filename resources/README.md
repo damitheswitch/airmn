@@ -30,7 +30,7 @@ This is a starter collection for AIRMN members and visitors. It is intentionally
 
 ## Moroccan AI ecosystem
 
-- [MoroccoAI](https://morocco.ai/) - Moroccan AI community organization supporting research, education, events, and collaboration.
+- [MoroccoAI](https://morocco.ai/) - a separate Moroccan AI community organization with research and education resources. This listing does not imply a partnership.
 - [AIRMN Discord](https://discord.gg/w9jkvrNHWy) - the community's live discussion space.
 
 ## Suggest a resource

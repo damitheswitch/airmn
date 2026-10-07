@@ -2,7 +2,7 @@
 
 ![AIRMN logo](airmn-logo.png)
 
-`airmn-logo.png` is the official logo currently used as the AIRMN Discord server icon.
+`airmn-logo.png` is the image currently used as the AIRMN Discord server icon. It is a light-background raster image, not an editable master or an approved transparent or dark-mode variant. Layout colors and additional logo versions are still being reviewed; do not infer exact palette values from this image. The logo is not covered by the repository's MIT License. See [`NOTICE`](../NOTICE).
 
 ## Logo meaning
 
