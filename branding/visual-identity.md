@@ -97,4 +97,4 @@ Before a new visual asset is published:
 | LinkedIn banner and social templates | Not created |
 | Brand PDF, poster, presentation, and website templates | Not created |
 
-Once ownership, palette, typography, contrast, and logo variants are approved, update this guide's status and version it as the approved identity manual. Until then, do not label unfinished example materials as official assets.
+Once ownership, palette, typography, contrast, and logo variants are approved, this guide's will be updated and approved as an identity manual.
